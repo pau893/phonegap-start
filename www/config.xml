@@ -9,7 +9,7 @@
     <name>Punto Verde</name>
 
     <description>
-       Prueba de phonegap
+       Las opciones verdes cerca de ti 
     </description>
 
     <author href="http://monochaman.com" email="soy@monochaman.com">
@@ -30,7 +30,7 @@
     <preference name="permissions"                value="none"/>
 
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version"           value="2.7.0" />          <!-- all: current version of PhoneGap -->
+    <preference name="phonegap-version"           value="2.9.0" />          <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
     <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
